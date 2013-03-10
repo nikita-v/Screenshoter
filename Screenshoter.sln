@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{5FD31B8A-818D-4E4B-9FB8-E4AF17EFC255}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebdavUploader", "WebdavUploader\WebdavUploader.csproj", "{D58B8613-727E-4BF3-91DE-590C5D2290E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{FE40B5E1-F119-4CA0-8B13-3D3B145168F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilesystemUploader", "FilesystemUploader\FilesystemUploader.csproj", "{4A2E4C21-33C9-4CF4-9FD5-42A8E7AFAF39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FD31B8A-818D-4E4B-9FB8-E4AF17EFC255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FD31B8A-818D-4E4B-9FB8-E4AF17EFC255}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FD31B8A-818D-4E4B-9FB8-E4AF17EFC255}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FD31B8A-818D-4E4B-9FB8-E4AF17EFC255}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D58B8613-727E-4BF3-91DE-590C5D2290E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D58B8613-727E-4BF3-91DE-590C5D2290E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D58B8613-727E-4BF3-91DE-590C5D2290E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D58B8613-727E-4BF3-91DE-590C5D2290E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE40B5E1-F119-4CA0-8B13-3D3B145168F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE40B5E1-F119-4CA0-8B13-3D3B145168F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE40B5E1-F119-4CA0-8B13-3D3B145168F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE40B5E1-F119-4CA0-8B13-3D3B145168F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A2E4C21-33C9-4CF4-9FD5-42A8E7AFAF39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A2E4C21-33C9-4CF4-9FD5-42A8E7AFAF39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A2E4C21-33C9-4CF4-9FD5-42A8E7AFAF39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A2E4C21-33C9-4CF4-9FD5-42A8E7AFAF39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
